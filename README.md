@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arvind 
 - 👀 I’m interested in Art,books and tech
 - 🌱 I’m currently learning CPP
-- 🙌 I’m looking to collaborate on open-source projects
 - 📫 How to reach me 219arvindpanda@gmail.com
 
 <!---
