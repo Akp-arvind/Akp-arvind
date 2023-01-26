@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Arvind 
 - 👀 I’m interested in Art,books and tech
-- 🌱 I’m currently learning CPP (Beginner)
+- 🌱 I’m currently learning DSA 
 - 📫 How to reach me 219arvindpanda@gmail.com
+- I know C and CPP.
 
 <!---
 Akp-arvind/Akp-arvind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
