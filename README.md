@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arvind 
-- 👀 I’m interested in Art,books and tech
-- 🌱 I’m currently learning DSA 
+- 👀 I’m interested in Art,books and tech 
 - 📫 How to reach me 219arvindpanda@gmail.com
 
 <!---
